@@ -1,7 +1,7 @@
 ### hey!
 
-####Esta pasta, contém todos os projetos desenvolvidos para estudos!
+#Esta pasta, contém todos os projetos desenvolvidos para estudos!
 
-##Lista de projetos
+#Lista de projetos
 
 - Instagram clone
