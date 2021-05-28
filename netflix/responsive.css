@@ -1,0 +1,21 @@
+@media screen and (max-width:700px){
+    header .container{
+        display:flex;
+        flex-direction:column;
+    }
+
+    .watch-button{
+        margin-top:10px;
+    }
+
+    .information-button{
+        margin-top:10px;
+    }
+
+}
+
+@media screen and (min-width:1000px){
+    .description-gambito{
+        width:50%;
+    }
+}
