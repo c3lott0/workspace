@@ -5,3 +5,4 @@
 #Lista de projetos
 
 - Instagram clone
+- Netflix clone
